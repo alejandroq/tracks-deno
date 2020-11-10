@@ -27,6 +27,7 @@ router
         case "value": {
           ctx.response.status = 200;
           ctx.response.body = {
+            key_path: keyPath,
             value: result.value,
           };
           return;
