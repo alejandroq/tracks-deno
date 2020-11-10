@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "date": "Tue, 10 Nov 2020 04:14:41 GMT",
+    "content-length": "0",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "vary": "Accept-Encoding",
+    "set-cookie": "__cfduid=d4c25f4cac354f90a764e608ef7f258c91604981681; expires=Thu, 10-Dec-20 04:14:41 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=6PtMBt3dMZHEcrYpXbVpEJTb%2B%2BC2fvpnqiTt7i2GeERA3cWhA%2F0uCZCJDrthSnUtRaIoqZc%2BmGe0HFYPI1Mb6RSzUrSsBpvhjpY%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "nel": "{\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "5efcf2b75b1a2a4b-IAD",
+    "location": "/x/oak@v6.3.2/mod.ts",
+    "x-deno-warning": "Implicitly using latest version (v6.3.2) for https://deno.land/x/oak/mod.ts",
+    "cf-request-id": "0651f6069c00002a4b47b73000000001"
+  },
+  "url": "https://deno.land/x/oak/mod.ts"
+}

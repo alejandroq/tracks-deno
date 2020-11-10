@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-github-request-id": "25B2:6D75:939CBD:ABC128:5FAA0EC0",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "connection": "keep-alive",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache-hits": "0, 1",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-fty21364-FTY",
+    "x-cache": "MISS, HIT",
+    "etag": "W/\"803e5c0cece7b0200f8609fe7b9ac2fdf438aa5baa5846eb8aad22157fff4bac\"",
+    "expires": "Tue, 10 Nov 2020 04:19:42 GMT",
+    "x-timer": "S1604981683.644434,VS0,VE5",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "x-fastly-request-id": "66f17cc6fb1416487a8ea96ba7dc3afaf3ef7b49",
+    "date": "Tue, 10 Nov 2020 04:14:42 GMT",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "58",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/chiefbiiko/std-encoding/v1.0.0/mod.ts"
+}

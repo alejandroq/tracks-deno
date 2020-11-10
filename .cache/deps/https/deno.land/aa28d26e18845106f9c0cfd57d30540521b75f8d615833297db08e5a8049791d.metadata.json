@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "cf-ray": "5efcf2bcbe9d2a4b-IAD",
+    "set-cookie": "__cfduid=ddca67a3ab26cbded60dca05f0a907e611604981682; expires=Thu, 10-Dec-20 04:14:42 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "content-length": "0",
+    "cf-request-id": "0651f609f800002a4b37914000000001",
+    "x-deno-warning": "Implicitly using latest version (v0.2.1) for https://deno.land/x/base64/base64url.ts",
+    "date": "Tue, 10 Nov 2020 04:14:42 GMT",
+    "location": "/x/base64@v0.2.1/base64url.ts",
+    "nel": "{\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "vary": "Accept-Encoding",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=kc1ZVe%2Fcez36JpMUWfejQEKPKMu0x3fmtINiGKqC1NUXdPsnkOZWcD2cgVOa7UtqoAWqEv83l5sJUXWAkCCtKBHTC8f11m8Q27E%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare"
+  },
+  "url": "https://deno.land/x/base64/base64url.ts"
+}

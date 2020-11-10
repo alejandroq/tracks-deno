@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-type": "application/typescript; charset=utf-8",
+    "nel": "{\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "x-amz-version-id": "N7sLDbYj._qDHKOVTErMKBqZueP3vzIk",
+    "last-modified": "Thu, 08 Oct 2020 12:21:27 GMT",
+    "x-amz-request-id": "C823F0D865C42A18",
+    "age": "311912",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "access-control-allow-origin": "*",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=fMZ6Pp%2BltYLx4uUY2SZOkaiHYy%2FkoUwsHdHPrMSjFHzD2ODoTmvtfLNK3TdywlMkPtxM37yTzqAfTfCVABsx4XzeKd8eq9XuR%2FI%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "content-length": "202",
+    "accept-ranges": "bytes",
+    "x-amz-id-2": "7Nw1IUwrkF+je49XzSBkUt+xJE9XhngzySwosJrhvlNxVU7R7TlItyyKEkDWRS9T/9epxnhslSk=",
+    "date": "Tue, 10 Nov 2020 04:14:42 GMT",
+    "cf-ray": "5efcf2ba59d72a4b-IAD",
+    "cf-request-id": "0651f6087700002a4b47bb1000000001",
+    "cf-cache-status": "HIT",
+    "vary": "Accept-Encoding",
+    "etag": "\"6440e250f3d2caa25b1ce076f9ab8ca5\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "set-cookie": "__cfduid=ddca67a3ab26cbded60dca05f0a907e611604981682; expires=Thu, 10-Dec-20 04:14:42 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure"
+  },
+  "url": "https://deno.land/std@0.74.0/async/mod.ts"
+}

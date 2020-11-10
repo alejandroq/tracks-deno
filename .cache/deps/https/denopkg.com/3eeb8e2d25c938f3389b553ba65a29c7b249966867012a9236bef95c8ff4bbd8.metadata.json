@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=63072000",
+    "age": "0",
+    "x-vercel-id": "iad1::sfo1::vwl46-1604981682529-8f0ee122fe7e",
+    "server": "Vercel",
+    "date": "Tue, 10 Nov 2020 04:14:42 GMT",
+    "location": "https://raw.githubusercontent.com/chiefbiiko/std-encoding/v1.0.0/mod.ts",
+    "content-length": "0",
+    "x-vercel-cache": "MISS",
+    "cache-control": "public, max-age=0, must-revalidate"
+  },
+  "url": "https://denopkg.com/chiefbiiko/std-encoding@v1.0.0/mod.ts"
+}

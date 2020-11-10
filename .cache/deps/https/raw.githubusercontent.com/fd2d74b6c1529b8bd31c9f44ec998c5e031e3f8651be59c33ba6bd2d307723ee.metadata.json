@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache": "MISS, HIT",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "x-fastly-request-id": "a1134348555369d7d609a78bdc1c7a065641104b",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"02b0bb2f7de787738c2c6664a4aad7cd81b91a635edeca33d82adb593de72066\"",
+    "x-github-request-id": "81F8:56CE:3E7F3A:4A4411:5FAA1183",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-fty21351-FTY",
+    "source-age": "58",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1604981682.317500,VS0,VE1",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Tue, 10 Nov 2020 04:19:42 GMT",
+    "x-frame-options": "deny",
+    "date": "Tue, 10 Nov 2020 04:14:42 GMT",
+    "x-cache-hits": "0, 1",
+    "x-content-type-options": "nosniff",
+    "connection": "keep-alive",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/alejandroq/mysql/master/src/packets/parsers/handshake.ts"
+}
